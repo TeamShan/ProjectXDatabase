@@ -61,5 +61,10 @@
     <Folder Include="Properties" />
     <Folder Include="dbo" />
     <Folder Include="dbo\Table" />
+    <Folder Include="Scripts" />
+    <Folder Include="Scripts\Not In Build" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Scripts\Not In Build\CreateDBScript.sql" />
   </ItemGroup>
 </Project>
